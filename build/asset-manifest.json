@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d38431fe.chunk.css",
+    "main.js": "/static/js/main.ec3d1ac8.chunk.js",
+    "main.js.map": "/static/js/main.ec3d1ac8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a03cfefb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a03cfefb.js.map",
+    "static/js/2.f45bab6f.chunk.js": "/static/js/2.f45bab6f.chunk.js",
+    "static/js/2.f45bab6f.chunk.js.map": "/static/js/2.f45bab6f.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.d38431fe.chunk.css.map": "/static/css/main.d38431fe.chunk.css.map",
+    "static/js/2.f45bab6f.chunk.js.LICENSE.txt": "/static/js/2.f45bab6f.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/static/media/onboarding.cdc17354.png",
+    "static/media/globe.d46f540c.png": "/static/media/globe.d46f540c.png",
+    "static/media/key.c4cca330.png": "/static/media/key.c4cca330.png",
+    "static/media/materialdesignicons.css": "/static/media/materialdesignicons-webfont.e9db4005.woff2",
+    "static/media/options.c3965b0c.png": "/static/media/options.c3965b0c.png",
+    "static/media/phrases.b18cb841.png": "/static/media/phrases.b18cb841.png",
+    "static/media/see.236a6091.png": "/static/media/see.236a6091.png",
+    "static/media/setPass.1834dc21.png": "/static/media/setPass.1834dc21.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a03cfefb.js",
+    "static/js/2.f45bab6f.chunk.js",
+    "static/css/main.d38431fe.chunk.css",
+    "static/js/main.ec3d1ac8.chunk.js"
+  ]
+}

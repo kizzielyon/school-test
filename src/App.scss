@@ -1,0 +1,78 @@
+@font-face {
+  font-family: var;
+  src: url('OpenSauceOne-Regular.ttf');
+}
+body {
+  -webkit-tap-highlight-color: transparent;
+  -webkit-font-smoothing: antialiased;
+  font-size: 16px;
+}
+.scPage::-webkit-scrollbar {
+  width: 0!important;
+}
+input, textarea, select, button, Input, Button {
+	outline: none!important;
+  resize: none!important;
+}
+.onboardingBg {
+  background: url('onboarding.png') center center;
+  background-size: 80%;
+  background-repeat: no-repeat;
+  background-color: #F0F0F2;
+}
+textarea:focus, input:focus {
+  outline: 1.5px solid #cfc9ff!important;
+}
+input::placeholder, textarea::placeholder {
+  color: #9C9CA2;
+}
+
+
+@media only screen and (max-width: 600px) {
+  body {
+    font-size: 16px;
+  }
+  .onboardingBg {
+    background-size: 105%;
+  }
+}
+
+@media only screen and (min-width:  1366px) {
+  .padder {
+      padding: 0 2%;
+  }
+}
+@media only screen and (min-width:  1600px) {
+  .padder {
+      padding: 0 5%;
+  }
+}
+
+@media only screen and (min-width:  1700px) {
+  .padder {
+      padding: 0 10%;
+  }
+}
+
+@media only screen and (min-width:  1900px) {
+  .padder {
+      padding: 0 15%;
+  }
+}
+
+@media only screen and (min-width:  2500px) {
+  .padder {
+      padding: 0 25%;
+  }
+}
+@media only screen and (min-width:  3800px) {
+  .padder {
+      padding: 0 30%;
+  }
+}
+
+@media only screen and (min-width:  4070px) {
+  .padder {
+      padding: 0 35%;
+  }
+}
